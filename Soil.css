@@ -1,0 +1,16 @@
+body {
+  background: beige;
+  color: black;
+  padding: 25px;
+  font-family: Ariel;
+  font-size: 13;
+ border: 6px solid  grey; }
+h3 {color: purple;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
